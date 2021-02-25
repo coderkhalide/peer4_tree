@@ -1,0 +1,22 @@
+.dataCard{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.dataCard > h3{
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.dataCard > h4{
+    margin: 0 auto;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 10px;
+    max-width: 260px;
+}
+.dataCard__image{
+    width: 20%;
+}

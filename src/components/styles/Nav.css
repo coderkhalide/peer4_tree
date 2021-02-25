@@ -1,0 +1,44 @@
+.nav{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+}
+.nav__container{
+    max-width: 1380px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.nav__logo{
+    width: 180px;
+    object-fit: contain;
+    padding: 15px 0px;
+}
+.nav__links > ul{
+    display: flex;
+    align-items: center;
+}
+.nav__links > ul > li{
+    list-style: none;
+}
+.nav__links > ul > li > a{
+    text-decoration: none;
+    font-weight: 500;
+    color: #000;
+    margin-right: 40px;
+}
+.nav__donate{
+    margin-left: 0;
+    background: var(--primary-color);
+    color: #fff !important;
+    padding: 10px 14px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
