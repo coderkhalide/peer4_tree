@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coderkhalide/peer4_tree/static/css/main.798f77bd.chunk.css",
+    "main.js": "/coderkhalide/peer4_tree/static/js/main.1cce883b.chunk.js",
+    "main.js.map": "/coderkhalide/peer4_tree/static/js/main.1cce883b.chunk.js.map",
+    "runtime-main.js": "/coderkhalide/peer4_tree/static/js/runtime-main.cef628b1.js",
+    "runtime-main.js.map": "/coderkhalide/peer4_tree/static/js/runtime-main.cef628b1.js.map",
+    "static/js/2.5299bbbd.chunk.js": "/coderkhalide/peer4_tree/static/js/2.5299bbbd.chunk.js",
+    "static/js/2.5299bbbd.chunk.js.map": "/coderkhalide/peer4_tree/static/js/2.5299bbbd.chunk.js.map",
+    "index.html": "/coderkhalide/peer4_tree/index.html",
+    "static/css/main.798f77bd.chunk.css.map": "/coderkhalide/peer4_tree/static/css/main.798f77bd.chunk.css.map",
+    "static/js/2.5299bbbd.chunk.js.LICENSE.txt": "/coderkhalide/peer4_tree/static/js/2.5299bbbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef628b1.js",
+    "static/js/2.5299bbbd.chunk.js",
+    "static/css/main.798f77bd.chunk.css",
+    "static/js/main.1cce883b.chunk.js"
+  ]
+}
