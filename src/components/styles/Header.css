@@ -9,6 +9,7 @@
     height: 100vh;
     display: flex;
     align-items: center;
+    padding: 0 20px;
 }
 .header__content{
     max-width: 1000px;
@@ -45,4 +46,23 @@
     margin-top: 1rem;
     display: block;
     width: fit-content;
+}
+
+@media (max-width: 768px){
+    .header__content > h1{
+        font-size: 2.6rem;
+    }
+    .header__content > p{
+        font-size: 1rem;
+        letter-spacing: 0.1rem;
+    }
+}
+@media (max-width: 576px){
+    .header__content > h1{
+        font-size: 1.7rem;
+    }
+    .header__content > p{
+        font-size: 0.85rem;
+        letter-spacing: 0.1rem;
+    }
 }

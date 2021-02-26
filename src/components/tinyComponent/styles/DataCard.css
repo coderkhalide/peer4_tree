@@ -20,3 +20,14 @@
 .dataCard__image{
     width: 20%;
 }
+@media (max-width: 768px){
+    .dataCard{
+        margin: 25px 0;
+    }
+}
+@media (max-width: 576px){
+    .dataCard{
+        width: 100%;
+        margin: 20px 0;
+    }
+}

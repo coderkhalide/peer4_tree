@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 .treePlaning{
     text-align: center;
-    padding: 90px 0;
+    padding: 90px 20px;
     position: relative;
 }
 .treePlaning > h1{
@@ -114,4 +114,18 @@ input[type=number] {
     display: block;
     width: -moz-fit-content;
     width: fit-content;
+}
+@media (max-width: 768px){
+    .treePlaning{
+        padding: 30px 20px;
+    }
+    .treePlaning > h1{
+        font-size: 2rem;
+    }
+    .treePlaning > p{
+        font-size: 0.89rem;
+    }
+}
+@media (max-width: 576px){
+    
 }

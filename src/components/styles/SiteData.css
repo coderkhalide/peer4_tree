@@ -10,3 +10,9 @@
     justify-content: center;
     align-items: center;
 }
+@media (max-width: 768px){
+    .siteData{
+        width: 100%;
+        padding: 40px 0px;
+    }
+}
